@@ -5,7 +5,7 @@ I am a Data Science student and aspiring Data Analyst with an interest in SQL, d
 Outside of data, I enjoy books, music, cosmology, and anime.
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -14,7 +14,7 @@ Outside of data, I enjoy books, music, cosmology, and anime.
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KrishnaKumarM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriishhnnaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnakumar248610@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kriishhnnaa_)
 
